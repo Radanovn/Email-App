@@ -1,0 +1,26 @@
+.kt-header {
+    background-color: #E6E7EB;
+    border-bottom: none;
+}
+.kt-content {
+    padding-top: 0;
+}
+.kt-header--fixed.kt-subheader--fixed .kt-subheader {
+    background-color: #E6E7EB;
+}
+.kt-badge.kt-badge--unified-success {
+    color: white;
+    background-color: #4499FF;
+    transition: background-color 0.3s;
+}
+.kt-badge.kt-badge--unified-success:hover {
+    background-color: #9828F9;
+}
+.kt-user-card.kt-user-card--skin-dark .kt-user-card__avatar .kt-badge {
+    background-color: #4499FF;
+    color: white;
+}
+.kt-login__btn-secondary:hover {
+    color: #333541 !important;
+}
+
